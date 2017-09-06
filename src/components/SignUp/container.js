@@ -1,6 +1,6 @@
-import React from 'react';
-import SignUp from './component';
+import React from 'react'
+import SignUp from './component'
 
-const SignUpContainer = () => <SignUp />;
+const SignUpContainer = () => <SignUp />
 
-export default SignUpContainer;
+export default SignUpContainer
