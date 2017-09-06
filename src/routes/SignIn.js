@@ -1,5 +1,5 @@
-import React from 'react';
-import Header from '../components/Header/component';
+import React from 'react'
+import Header from '../components/Header/component'
 import SignInContainer from '../components/SignIn/container'
 
 const SignIn = () => (
@@ -7,6 +7,6 @@ const SignIn = () => (
     <Header />
     <SignInContainer />
   </div>
-);
+)
 
-export default SignIn;
+export default SignIn
