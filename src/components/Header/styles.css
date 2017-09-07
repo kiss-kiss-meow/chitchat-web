@@ -1,0 +1,10 @@
+.Header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.Link-selected {
+  text-decoration: none;
+  font-weight: bold;
+}
